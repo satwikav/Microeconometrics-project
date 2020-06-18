@@ -8,6 +8,8 @@ dependencies:
 - seaborn
 - scipy
 - statsmodels
+- linearmodels
+
 - pip
 - pip:
 
