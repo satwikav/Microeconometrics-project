@@ -10,5 +10,6 @@ dependencies:
 - statsmodels
 - pip
 - pip:
+    - linearmodels
 
 
