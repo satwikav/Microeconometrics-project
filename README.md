@@ -16,4 +16,4 @@ The relevant [data](https://github.com/HumanCapitalAnalysis/microeconometrics-co
 #### **Independent contribution summary**
 
 ---
-[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-satwikav.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-satwikav) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-satwikav.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-satwikav) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/blob/master/LICENSE) ![Continuous Integration](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/workflows/Continuous%20Integration/badge.svg)
