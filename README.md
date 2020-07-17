@@ -17,3 +17,17 @@ The relevant [data](https://github.com/HumanCapitalAnalysis/microeconometrics-co
 
 ---
 [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-satwikav.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-satwikav) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/blob/master/LICENSE) ![Continuous Integration](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/workflows/Continuous%20Integration/badge.svg)
+<a href="https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/blob/master/dummy.ipynb"
+   target="_parent">
+   <img align="center"
+  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
+      width="109" height="20">
+</a>
+<a href="https://mybinder.org/v2/gh/HumanCapitalAnalysis/microeconometrics-course-project-satwikav/master?filepath=dummy.ipynb"
+    target="_parent">
+    <img align="center"
+       src="https://mybinder.org/badge_logo.svg"
+       width="109" height="20">
+</a>
+
+
